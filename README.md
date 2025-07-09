@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lisachacho
 - 👀 I’m interested in creating opportunities for historically excluded folx in tech!
-- 🌱 I’m currently learning Django!
-- 💞️ I’m looking to collaborate on anything Rails!
+- 🌱 I’m currently learning LLMs!
+- 💞️ I’m looking to collaborate on anything Rails or React!
 - 📫 Drop an email to get in touch!
